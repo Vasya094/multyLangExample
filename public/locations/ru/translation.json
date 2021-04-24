@@ -1,0 +1,9 @@
+{
+  "Welcome_to_React": "Добро пожаловать в React и react-i18next",
+    "app_title": "Адресс",
+    "language": "Язык",
+    "welcome_message": "Добро пожаловать",
+    "days_since_release":"{{number_of_days}} дней прошло с релиза"
+  
+
+}

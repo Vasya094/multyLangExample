@@ -1,0 +1,7 @@
+
+  {
+    "app_title": "adress",
+    "language": "language",
+    "welcome_message": "Wellcome",
+    "days_since_release":"{{number_of_days}} days have passed from this relase"
+  }
